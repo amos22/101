@@ -1,0 +1,43 @@
+
+
+.mastfoot{
+	bottom:0;
+	width:90%;
+    height:100px; 
+}
+h1{
+	text-align: center;
+}
+
+
+.cover-heading{
+
+}
+
+
+.lead{
+	text-align: right;
+	margin-right: 100px;
+
+}
+h2{
+	color:  #850f10;
+	text-align:center;
+	margin-right: 200px;
+
+}
+ul{
+	float: right;
+	margin-left: 65px;
+	margin-right: 200px;
+	color:#850f10;
+}
+
+img:hover { 
+  outline: 1px solid red; 
+} 
+
+#myModal
+{
+	background-color: #000000;
+}
