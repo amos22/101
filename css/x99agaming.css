@@ -1,5 +1,4 @@
 
-
 .mastfoot{
 	bottom:0;
 	width:90%;
@@ -22,15 +21,9 @@ h1{
 }
 h2{
 	color:  #850f10;
-	text-align:center;
+	
 	margin-right: 200px;
 
-}
-ul{
-	float: right;
-	margin-left: 65px;
-	margin-right: 200px;
-	color:#850f10;
 }
 
 img:hover { 
@@ -40,4 +33,22 @@ img:hover {
 #myModal
 {
 	background-color: #000000;
+
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+   background-color:  #000000;
+   width: 75%;
+   height: 75%;
+ 
+}
+
+.link{
+	color: #850f10;
+
+}
+b{
+color:#0066cc;
 }
